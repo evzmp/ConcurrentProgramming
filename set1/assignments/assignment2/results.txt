@@ -1,0 +1,61 @@
+1000 big primes (test1000.txt)
+
+1 thread: 16,548030 s
+2 threads: 8,934081 s
+3 threads: 6,101022 s
+4 threads: 5,244374 s
+5 threads: 4,329061 s
+6 threads: 4,024477 s
+8 threads: 3,384192 s
+12 threads: 3,215996 s
+16 threads: 3,027306 s
+32 threads: 2,949086 s
+64 threads: 2,901451 s
+128 threads: 2,769823 s
+256 threads: 2,816886 s
+512 threads: 2,821709 s
+1024 threads: 2,837572 s
+2048 threads: 3,028277 s
+4096 threads: 3,157427 s
+
+10000 big primes (test10000.txt)
+
+1 thread: 161,828140 s
+2 threads: 87,174375 s
+3 threads: 61,012282 s
+4 threads: 49,183348 s
+5 threads: 42,065644 s
+6 threads: 36,989930 s
+8 threads: 31,457979 s
+12 threads: 28,818594 s
+16 threads: 28,261875 s
+32 threads: 28,093989 s
+64 threads: 28,536753 s
+128 threads: 30,310073 s
+256 threads: 31,671174 s
+512 threads: 33,175258 s
+1024 threads: 32,662873 s
+2048 threads: 32,737263 s
+4096 threads: 31,509399 s
+
+1000000 small primes (test1m.txt)
+
+1 thread: 23,409522 s
+2 threads: 115,562410 s
+3 threads: 120,830908 s
+4 threads: 122,016143 s
+5 threads: 112,721204 s
+6 threads: 124,001354 s
+8 threads: 122,588777 s
+12 threads: 120,515388 s
+16 threads: 118,198962 s
+32 threads: 122,080208 s
+64 threads: 122,420712 s
+128 threads: 128,161759 s
+256 threads: 129,857813 s 
+512 threads: 133,315178 s
+1024 threads: 134,713774 s
+2048 threads: 144,441937 s
+4096 threads: 152,507478 s
+
+
